@@ -1,0 +1,46 @@
+# Build results
+compiled/
+dist/
+typings/**/*
+.cache--happypack
+
+# IDE
+.idea
+
+# Others
+~$*
+*~
+node_modules/
+coverage/
+.DS_Store
+.idea/workspace.xml
+.idea/webResources.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/megaton_game.iml
+.idea/inspectionProfiles/Project_Default.xml
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/pnglink.bat
+resources/*
+!*/games
+!*/nova
+gulp/package-lock.json
+
+# Resources
+output
+testoutput
+coverage
+.nyc_output
+.DS_Store
+*.log
+.vscode
+.idea
+dist
+.awcache
+RECOVER_*
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
